@@ -1,0 +1,2 @@
+# .github
+LukasZichoSK@gmail.com
